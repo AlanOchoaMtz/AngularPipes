@@ -1,2 +1,2 @@
-# AngularPipes
-Use of pipes in AngularJs
+# AngularSpotifake
+Clone of spotify using the API with AngularJs
